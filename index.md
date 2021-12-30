@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub!
+
+Hello! My name is Brendan Kelly-Ruetz. I am a recent graduate of the double degree program at the University of Waterloo and Wilfrid Laurier University, where I completed a Bachelor of Mathematics (double major in Actuarial Science & Statistics) and a Bachelor of Business Administration (concentration in Finance).
+
+I am an aspiring Actuary who loves learning new things, especially related to risk and data science.
+
+## My Projects
+
+[Double Degree Class of 2021 Profile](https://brendankr.github.io/dd-2021-class-profile.pdf)
 
 You can use the [editor on GitHub](https://github.com/brendankr/brendankr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
