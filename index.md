@@ -15,9 +15,3 @@ My contact information can be found below. Please feel free to reach out - I am 
 **Email**: brendan.kellyruetz@gmail.com
 
 [LinkedIn](www.linkedin.com/in/brendankelly-ruetz)
-
-
-
-
-
-<embed src="https://brendankr.github.io/dd-2021-class-profile.pdf" type="application/pdf" />
