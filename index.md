@@ -14,7 +14,7 @@ I am an aspiring Actuary who loves learning new things, especially related to ri
 
 - This project was done in collaboration with **Jawad Khandoker**.
 - In this project, we surveyed 42% of our graduating class on topics like demographics, academics, co-ops, lifestyle, and more. We then aggregated the results, visualized/analyzed the results, and put together a final class profile in a slide format.
-- To complete this project, we used Google Forms to conduct the survey, Microsoft Excel to aggregate and clean the data, Microsoft Power BI to create visualization, and Microsoft PowerPoint to create the final profile.
+- To complete this project, we used Google Forms to conduct the survey, Microsoft Excel to aggregate and clean the data, Microsoft Power BI to create visualizations, and Microsoft PowerPoint to create the final profile.
 
 &nbsp;
 
