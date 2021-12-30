@@ -8,6 +8,14 @@ I am an aspiring Actuary who loves learning new things, especially related to ri
 
 [Double Degree Class of 2021 Profile](https://brendankr.github.io/dd-2021-class-profile.pdf)
 
+## Contact Information
+
+My contact information can be found below. Please feel free to reach out - I am always open to chatting and expanding my network.
+
+**Email**: brendan.kellyruetz@gmail.com
+
+[LinkedIn](www.linkedin.com/in/brendankelly-ruetz)
+
 You can use the [editor on GitHub](https://github.com/brendankr/brendankr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
