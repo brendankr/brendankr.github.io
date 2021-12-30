@@ -1,11 +1,14 @@
 # Welcome to my GitHub!
 
+&nbsp;
+
 ## About Me
 
 Hello! My name is Brendan Kelly-Ruetz. I am a recent graduate of the double degree program at the University of Waterloo and Wilfrid Laurier University, where I completed a Bachelor of Mathematics (double major in Actuarial Science & Statistics) and a Bachelor of Business Administration (concentration in Finance).
 
 I am an aspiring Actuary who loves learning new things, especially related to risk and data science.
 
+&nbsp;
 
 ## Contact Information
 
@@ -15,6 +18,7 @@ My contact information can be found below. Please feel free to reach out - I am 
 
 **LinkedIn**: [www.linkedin.com/in/BrendanKelly-Ruetz](www.linkedin.com/in/BrendanKelly-Ruetz)
 
+&nbsp;
 
 ## My Projects
 
