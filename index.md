@@ -8,6 +8,12 @@ I am an aspiring Actuary who loves learning new things, especially related to ri
 
 &nbsp;
 
+## My Projects
+
+[Double Degree Class of 2021 Profile](https://brendankr.github.io/dd-2021-class-profile.pdf)
+
+&nbsp;
+
 ## Contact Information
 
 My contact information can be found below. Please feel free to reach out - I am always open to chatting and expanding my network.
@@ -15,9 +21,3 @@ My contact information can be found below. Please feel free to reach out - I am 
 **Email**: [brendan.kellyruetz@gmail.com](mailto:brendan.kellyruetz@gmail.com)
 
 **LinkedIn**: [www.linkedin.com/in/BrendanKelly-Ruetz](www.linkedin.com/in/BrendanKelly-Ruetz)
-
-&nbsp;
-
-## My Projects
-
-[Double Degree Class of 2021 Profile](https://brendankr.github.io/dd-2021-class-profile.pdf)
