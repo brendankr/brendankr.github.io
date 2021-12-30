@@ -24,4 +24,4 @@ My contact information can be found below. Please feel free to reach out - I am 
 
 **Email**: [brendan.kellyruetz@gmail.com](mailto:brendan.kellyruetz@gmail.com)
 
-**LinkedIn**: [www.linkedin.com/in/BrendanKelly-Ruetz](www.linkedin.com/in/BrendanKelly-Ruetz)
+**LinkedIn**: [www.linkedin.com/in/BrendanKelly-Ruetz](https://www.linkedin.com/in/BrendanKelly-Ruetz/)
