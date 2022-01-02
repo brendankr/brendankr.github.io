@@ -20,7 +20,7 @@ I am an aspiring Actuary who loves learning new things, especially related to ri
 
 ## Contact Information
 
-My contact information can be found below. Please feel free to reach out - I am always open to chatting and expanding my network.
+Please feel free to reach out - I am always open to chatting and expanding my network.
 
 **Email**: [brendan.kellyruetz@gmail.com](mailto:brendan.kellyruetz@gmail.com)
 
